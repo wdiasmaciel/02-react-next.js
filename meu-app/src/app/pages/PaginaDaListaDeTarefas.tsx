@@ -1,8 +1,8 @@
 "use client"
 
 import { useState } from 'react'
-import Input from '../components/Input'
-import ListaDeTarefas from '../components/ListaDeTarefas'
+import Input from '@/app/components/Input'
+import ListaDeTarefas from '@/app/components/ListaDeTarefas'
 
 export default function PaginaDaListaDeTarefas() {
     const [tarefa, setTarefa] = useState<string>('')

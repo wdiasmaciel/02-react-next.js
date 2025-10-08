@@ -1,4 +1,4 @@
-import Tarefa from './Tarefa'
+import Tarefa from '@/app/components/Tarefa'
 
 interface ListaDeTarefasProps {
     tarefas: string[]

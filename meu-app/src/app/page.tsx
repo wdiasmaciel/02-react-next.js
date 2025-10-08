@@ -1,4 +1,4 @@
-import PaginaDaListaDeTarefas from "./pages/PaginaDaListaDeTarefas"
+import PaginaDaListaDeTarefas from "@/app/pages/PaginaDaListaDeTarefas"
 
 export default function Home() {
   return (
